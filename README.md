@@ -11,7 +11,7 @@
 
 # Autodistill ALBEF Module
 
-This repository contains the code supporting the BLIP base model for use with [Autodistill](https://github.com/autodistill/autodistill).
+This repository contains the code supporting the ALBEF base model for use with [Autodistill](https://github.com/autodistill/autodistill).
 
 [ALBEF](https://github.com/salesforce/LAVIS), developed by Salesforce, is a computer vision model that supports a range of tasks, including image-text pre-training, image-text retrieval, visual question anserting, and zero-shot classification. You can classify images using ALBEF with Autodistill.
 
