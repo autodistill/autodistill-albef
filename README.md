@@ -56,4 +56,4 @@ This project is licensed under a [3-Clause BSD license](LICENSE).
 
 ## 🏆 Contributing
 
-We love your input! Please see the core Autodistill [contributing guide](https://github.com/autodistill/autodistill/blob/main/CONTRIBUTING.md) to get started. Thank you 🙏 to all our contributors!
+We love your input!!! Please see the core Autodistill [contributing guide](https://github.com/autodistill/autodistill/blob/main/CONTRIBUTING.md) to get started. Thank you 🙏 to all our contributors!
